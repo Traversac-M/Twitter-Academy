@@ -1,0 +1,23 @@
+footer {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+    background:#343a40;
+    z-index: 99;
+    margin-top: 16%;
+}
+
+table {
+ border-width:1px; 
+ border-style:solid; 
+ border-color:black;
+ width:50%;
+ }
+ td { 
+ border-width:2px;
+ border-style:solid; 
+ border-color:grey;
+ width:60%;
+ }

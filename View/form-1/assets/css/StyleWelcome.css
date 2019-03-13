@@ -1,0 +1,18 @@
+html,
+body,
+.view {
+  height: 100%; }
+
+@media (max-width: 740px) {
+  .full-page-intro {
+    height: 1000px; } }
+
+
+/* Adjustment for mobile devices*/
+@media (max-width: 776px) {
+  .carousel {
+    height: 100%; } }
+
+/* Footer color for sake of consistency with Navbar */
+.page-footer {
+  background-color: #1C2331; }
